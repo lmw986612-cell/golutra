@@ -1,0 +1,3 @@
+display_name: Java Frontend
+short_description: Vue/React前端开发，与Java后端API对接，状态管理，UI组件
+default_prompt: 帮我创建一个Vue项目，实现用户列表页面并对接Java后端API
