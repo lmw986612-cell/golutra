@@ -1,6 +1,8 @@
 ---
 name: java-backend
 description: Java后端开发技能，支持Spring Boot、Spring Cloud、MyBatis、JPA等主流框架。用于：(1)创建和配置Spring Boot项目，(2)编写RESTful API接口，(3)数据库设计和ORM映射，(4)微服务架构设计，(5)安全认证授权，(6)性能优化和调试。当用户需要Java后端开发、API设计、数据库操作、微服务相关工作时使用此技能。
+metadata:
+  short-description: Spring Boot后端开发
 ---
 
 # Java Backend Development Skill

@@ -1,6 +1,8 @@
 ---
 name: java-frontend
 description: Java项目前端开发技能，支持Vue、React等现代前端框架与Java后端集成。用于：(1)创建和配置前端项目，(2)与Java API对接，(3)状态管理和路由配置，(4)UI组件开发，(5)前端工程化和构建，(6)跨域处理和代理配置。当用户需要前端开发、Vue/React项目、前后端分离、API对接相关工作时使用此技能。
+metadata:
+  short-description: Vue/React前端开发
 ---
 
 # Java Frontend Development Skill
